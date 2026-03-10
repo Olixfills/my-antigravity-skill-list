@@ -570,6 +570,16 @@
     "date_added": "2026-03-07"
   },
   {
+    "id": "antigravity-skill-creator",
+    "path": "skills/antigravity-skill-creator",
+    "category": "olix",
+    "name": "antigravity-skill-creator",
+    "description": "Generates new skills for the Antigravity agent environment following strict structural and writing guidelines.",
+    "risk": "unknown",
+    "source": "unknown",
+    "date_added": null
+  },
+  {
     "id": "antigravity-workflows",
     "path": "skills/antigravity-workflows",
     "category": "uncategorized",
@@ -2628,6 +2638,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "brand-identity",
+    "path": "skills/brand-identity",
+    "category": "olix",
+    "name": "brand-identity",
+    "description": "Asks the user questions about their brand and generates a localized brand identity skill in their project. Use when the user wants to enforce UI consistency, voice/tone, or brand guidelines.",
+    "risk": "unknown",
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "brevo-automation",

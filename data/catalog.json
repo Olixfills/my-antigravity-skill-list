@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 1234,
+  "total": 1236,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -1380,6 +1380,32 @@
         "glassmorphism"
       ],
       "path": "skills/antigravity-design-expert/SKILL.md"
+    },
+    {
+      "id": "antigravity-skill-creator",
+      "name": "antigravity-skill-creator",
+      "description": "Generates new skills for the Antigravity agent environment following strict structural and writing guidelines.",
+      "category": "general",
+      "tags": [
+        "antigravity",
+        "skill",
+        "creator"
+      ],
+      "triggers": [
+        "antigravity",
+        "skill",
+        "creator",
+        "generates",
+        "new",
+        "skills",
+        "agent",
+        "environment",
+        "following",
+        "strict",
+        "structural",
+        "writing"
+      ],
+      "path": "skills/antigravity-skill-creator/SKILL.md"
     },
     {
       "id": "antigravity-workflows",
@@ -6577,6 +6603,31 @@
         "may"
       ],
       "path": "skills/brand-guidelines-community/SKILL.md"
+    },
+    {
+      "id": "brand-identity",
+      "name": "brand-identity",
+      "description": "Asks the user questions about their brand and generates a localized brand identity skill in their project. Use when the user wants to enforce UI consistency, voice/tone, or brand guidelines.",
+      "category": "general",
+      "tags": [
+        "brand",
+        "identity"
+      ],
+      "triggers": [
+        "brand",
+        "identity",
+        "asks",
+        "user",
+        "questions",
+        "about",
+        "generates",
+        "localized",
+        "skill",
+        "wants",
+        "enforce",
+        "ui"
+      ],
+      "path": "skills/brand-identity/SKILL.md"
     },
     {
       "id": "brevo-automation",
